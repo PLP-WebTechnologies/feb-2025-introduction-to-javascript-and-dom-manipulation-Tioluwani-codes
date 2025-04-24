@@ -1,0 +1,13 @@
+#heading {
+    color: blue;
+  }
+  
+  #element-container {
+    margin-top: 20px;
+  }
+  
+  .new-element {
+    background-color: #f0f0f0;
+    padding: 10px;
+    border: 1px solid #ccc;
+  }
